@@ -1,0 +1,27 @@
+<html> starting/ending
+</>end of tag
+
+<html>
+	<body style = "background-color: violet; width:900px; margin:auto;">
+		<div style="width:449px; height:500px; background-color:red;">
+		</div>
+		<div style="width: 233px; height: 600; background-color:orange;">
+		</div>
+<a 		href="http://Frys.com">This is the most amazing link
+		<img src="http://t2.gstatic.com/images?q=tbn:ANd9GcTUu8fFNHfNzeigxSwJ-VwXGHATQvFdp5-mFU2XF46nEj771rDRkg:i.huffpost.com/gen/1860407/thumbs/o-BLACK-FOOTED-CAT-KITTENS-facebook.jpg" />
+
+		</a>
+		<div style="width:449px; height:500px; background-color:green;">
+		</div>
+		<h1>
+			Hi
+		</h1>
+		<br />
+		<!-- Hello this is a comment -->
+		<p> paragraph symbol </P>
+		<p style="color: GREEN">HELLO		</p>
+		<h1>This is the header </h1> 	<!-- header lower # = more important -->
+		<a href="http://google.com">This is a link</a>
+		<b> Hello </b>
+	</body>
+</html>
